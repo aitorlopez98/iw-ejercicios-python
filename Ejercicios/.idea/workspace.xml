@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="1d232f8f-1a06-4964-8473-eb4b1ac48f9c" name="Default Changelist" comment="" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1Yt6Lher0wxMpcqrej5RleP1NSP" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="1YzlzpKhQZGZljarcxcsOzGSPM5" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Aitor\Industria Digital\2º Curso\Semestre II\Ingenieria Web\Python\Ejercicios\Variables y tipos de datos" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.Ejercicio 2">
+  <component name="RunManager">
     <configuration name="Ejercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,127 +30,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ejercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-Listas y tuplas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ejercicio 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ejercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-Estructuras de control" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ejercicio 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ejercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-Estructuras de control" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ejercicio 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ejercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-Estructuras de control" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ejercicio 2" />
         <item itemvalue="Python.Ejercicio 1" />
-        <item itemvalue="Python.Ejercicio 7" />
-        <item itemvalue="Python.Ejercicio 6" />
-        <item itemvalue="Python.Ejercicio 4" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="704" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583948988397">
+    <state width="659" height="185" key="GridCell.Tab.0.bottom" timestamp="1583953609793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="704" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583948988397" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1583830680923">
+    <state width="659" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583953609793" />
+    <state width="659" height="185" key="GridCell.Tab.0.center" timestamp="1583953609793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583830680923" />
-    <state width="659" height="184" key="GridCell.Tab.0.bottom" timestamp="1583950471051">
+    <state width="659" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583953609793" />
+    <state width="659" height="185" key="GridCell.Tab.0.left" timestamp="1583953609793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583950471051" />
-    <state width="659" height="184" key="GridCell.Tab.0.center" timestamp="1583950471051">
+    <state width="659" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583953609793" />
+    <state width="659" height="185" key="GridCell.Tab.0.right" timestamp="1583953609793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583950471051" />
-    <state width="659" height="184" key="GridCell.Tab.0.left" timestamp="1583950471045">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="659" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583950471045" />
-    <state width="659" height="184" key="GridCell.Tab.0.right" timestamp="1583950471051">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="659" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583950471051" />
+    <state width="659" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583953609793" />
   </component>
 </project>

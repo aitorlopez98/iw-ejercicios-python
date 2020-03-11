@@ -1,4 +1,4 @@
-#!"D:\Aitor\Industria Digital\2º Curso\Semestre II\Ingenieria Web\Python\Ejercicios\venv\Scripts\python.exe" -x
+#!"D:\Aitor\Industria Digital\2º Curso\Semestre II\Ingenieria Web\Ejercicios\Ejercicios Python\iw-ejercicios-python\Ejercicios\venv\Scripts\python.exe" -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip3'
 __requires__ = 'pip==19.0.3'
 import re
