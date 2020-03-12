@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c400ed4f-8f54-4fe0-bf64-089825fa66a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Diccionarios/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Diccionarios/Ejercicio 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Python.Ejercicio 2">
+  <component name="RunManager" selected="Python.Ejercicio 1 (1)">
+    <configuration name="Ejercicio 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5-Diccionarios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-Diccionarios/Ejercicio 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Ejercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ejercicio 1 (1)" />
         <item itemvalue="Python.Ejercicio 2" />
         <item itemvalue="Python.Ejercicio 1" />
       </list>
@@ -85,22 +107,22 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
-    <state width="659" height="187" key="GridCell.Tab.0.bottom" timestamp="1583966975868">
+    <state width="659" height="187" key="GridCell.Tab.0.bottom" timestamp="1583971339070">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583966975868" />
-    <state width="659" height="187" key="GridCell.Tab.0.center" timestamp="1583966975868">
+    <state width="659" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583971339070" />
+    <state width="659" height="187" key="GridCell.Tab.0.center" timestamp="1583971339069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583966975868" />
-    <state width="659" height="187" key="GridCell.Tab.0.left" timestamp="1583966975868">
+    <state width="659" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583971339069" />
+    <state width="659" height="187" key="GridCell.Tab.0.left" timestamp="1583971339068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583966975868" />
-    <state width="659" height="187" key="GridCell.Tab.0.right" timestamp="1583966975868">
+    <state width="659" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583971339068" />
+    <state width="659" height="187" key="GridCell.Tab.0.right" timestamp="1583971339069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583966975868" />
+    <state width="659" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583971339069" />
     <state x="680" y="166" key="run.anything.popup" timestamp="1583961513375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
