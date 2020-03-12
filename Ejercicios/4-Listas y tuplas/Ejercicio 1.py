@@ -33,9 +33,9 @@ lista.extend(otra_lista)
 print(lista)
 
 #Elimina todos los números impares de la lista.
-for n in lista:
-    total = n%2
-    if total != 0:
+copia_lista = lista.copy()
+for n in copia_lista:
+    if n%2 != 0:
         lista.remove(n)
 
 print(lista)

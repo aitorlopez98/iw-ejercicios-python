@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c400ed4f-8f54-4fe0-bf64-089825fa66a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Python.Ejercicio 2 (1)">
+  <component name="RunManager" selected="Python.Ejercicio 1">
     <configuration name="Ejercicio 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ejercicio 1" />
         <item itemvalue="Python.Ejercicio 2 (1)" />
         <item itemvalue="Python.Ejercicio 1 (1)" />
         <item itemvalue="Python.Ejercicio 2" />
-        <item itemvalue="Python.Ejercicio 1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,22 +129,22 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
-    <state width="659" height="187" key="GridCell.Tab.0.bottom" timestamp="1583972098459">
+    <state width="659" height="184" key="GridCell.Tab.0.bottom" timestamp="1584007350788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583972098459" />
-    <state width="659" height="187" key="GridCell.Tab.0.center" timestamp="1583972098459">
+    <state width="659" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584007350788" />
+    <state width="659" height="184" key="GridCell.Tab.0.center" timestamp="1584007350788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583972098459" />
-    <state width="659" height="187" key="GridCell.Tab.0.left" timestamp="1583972098459">
+    <state width="659" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584007350788" />
+    <state width="659" height="184" key="GridCell.Tab.0.left" timestamp="1584007350787">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583972098459" />
-    <state width="659" height="187" key="GridCell.Tab.0.right" timestamp="1583972098459">
+    <state width="659" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584007350787" />
+    <state width="659" height="184" key="GridCell.Tab.0.right" timestamp="1584007350788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583972098459" />
+    <state width="659" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584007350788" />
     <state x="680" y="166" key="run.anything.popup" timestamp="1583961513375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
