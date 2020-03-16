@@ -1,42 +1,32 @@
 class clsCoche:
-
-    matricula = ""
-    marca = ""
-    kilometros_recorridos = 0
-    gasolina = 0
-    litros = 0
-
-    def __init__(self, matricula, marca, kilometros_recorridos, gasolina, litros):
+    def __init__(self, matricula, marca):
         self.matricula = matricula
         self.marca = marca
-        self.kilometros_recorridos = float(kilometros_recorridos)
-        self.gasolina = gasolina
-        self.litros = litros
+        self.kilometros_recorridos = 0
+        self.gasolina = 0
 
-    def datos(self, matricula, marca):
-        matricula = input("Matricula del coche: ")
-        marca = input("Marcac del coche: ")
-
-    def avanzar(self, kilometros_recorridos, gasolina):
-        km = float(input("Cantidad de kilometros a conducir: "))
-        if self.repostar(self, self.litros, gasolina, km):
-            litros = gasolina - km*0.1
-
-        kilometros_recorridos = kilometros_recorridos + km+0.1
-
-    def repostar(self, litros, gasolina, km):
-        _km = km
-        _gasolina = gasolina
-        _litros = litros
-
-        _litros = gasolina - km*0.1
-        if _litros > 0:
-            print("Puedes avanzar")
+    def suficiente(self, gasolina, kilometros):
+        max_km = gasolina / 0.1
+        if kilometros <= max_km:
             return True
-        else:
-            print("Hay que repostar")
-            return False
+        return False
 
-c1 = clsCoche
-c1.datos(self, matricula, marca)
-c1.avanzar()
+    def avanzar(self, kilometros):
+        if self.suficiente(self.gasolina, kilometros):
+            self.gasolina -= (kilometros*0.1)
+            self.kilometros_recorridos += kilometros
+        else:
+            print("Hace falta gasolina")
+
+    def repostar(self, gasolina):
+        self.gasolina += gasolina
+
+c1 = clsCoche("0908IKJ", "Tesla")
+c1.repostar(100)
+print(f"KM: {clsCoche.kilometros_recorridos} -- Gasolina: {clsCoche.gasolina}")
+c1.avanzar(150)
+print(f"KM: {clsCoche.kilometros_recorridos} -- Gasolina: {clsCoche.gasolina}")
+c1.avanzar(600)
+print(f"KM: {clsCoche.kilometros_recorridos} -- Gasolina: {clsCoche.gasolina}")
+c1.avanzar(200)
+print(f"KM: {clsCoche.kilometros_recorridos} -- Gasolina: {clsCoche.gasolina}")
