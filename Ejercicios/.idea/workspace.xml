@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c400ed4f-8f54-4fe0-bf64-089825fa66a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Python.Prueba">
+  <component name="RunManager" selected="Python.Ejercicio 1 (1)">
     <configuration name="Ejercicio 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Prueba" />
         <item itemvalue="Python.Ejercicio 1 (1)" />
+        <item itemvalue="Python.Prueba" />
         <item itemvalue="Python.Ejercicio 2 (1)" />
         <item itemvalue="Python.Ejercicio 1" />
         <item itemvalue="Python.Ejercicio 3 (1)" />
