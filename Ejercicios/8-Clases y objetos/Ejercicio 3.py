@@ -26,10 +26,12 @@ move = ""
 while move != "fin":
     move = input("A-adelante/R-retroceder/I-izquierda/D-derecha/FIN-salir: ")
     i = 0
-    while i < len(move):
+    if move.__eq__("fin"):
+        print("Fin")
 
+
+    while i < len(move) and move != "fin":
         move = move.lower()
-        print(move)
         if move[i].__eq__("a"):
             r1.avanzar()
 
@@ -43,5 +45,8 @@ while move != "fin":
             r1.derecha()
         else:
             print("ERROR")
+            break
+
+        i += 1
 
     r1.posicion()
