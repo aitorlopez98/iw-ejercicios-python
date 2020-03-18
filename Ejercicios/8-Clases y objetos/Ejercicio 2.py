@@ -28,14 +28,13 @@ while move != "fin":
     move = move.lower()
     if move.__eq__("a"):
         r1.avanzar()
-
     elif move.__eq__("r"):
         r1.retorceder()
-
     elif move.__eq__("i"):
         r1.izquierda()
-
     elif move.__eq__("d"):
         r1.derecha()
+    else:
+        print("ERROR")
 
     r1.posicion()
