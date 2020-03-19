@@ -10,27 +10,21 @@ class clsTriangulo:
     def area(self):
         _base = self.base
         _cat1 = self.cat1
-        print(_cat1)
-        print(_)
-        c = pow(_cat1, 2) + pow(_base/2, 2)
-        print(c)
-        h = math.sqrt(c)
-        a = (_base*h)/2
-        return a
+        _cat2 = self.cat2
+        s = _cat1 + _cat2 + _base
+        a = (s*(s-_cat1)*(s-_cat2)*(s-_base))
+        return math.sqrt(a)
 
     def forma(self):
         _cat1 = self.cat1
         _cat2 = self.cat2
         _base = self.base
-        resultado = ""
-        if _cat1 == _cat2:
-            resultado = "Triangulo isosceles"
-        elif _cat1 == _cat2 == _base:
-            resultado = "Triangulo equilatero"
+        if _cat1 == _cat2 and _cat1 == _base:
+            return "Triangulo equilatero"
+        elif _cat1 == _cat2:
+            return "Triangulo isosceles"
         else:
-            resultado = "Triangulo irregular"
-
-        return resultado
+            return "Triangulo irregular"
 
     def perimetro(self):
         _cat1 = self.cat1
