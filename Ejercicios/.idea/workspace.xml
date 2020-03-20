@@ -3,8 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="c400ed4f-8f54-4fe0-bf64-089825fa66a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Variables y tipos de datos/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Variables_tipos de datos/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Variables y tipos de datos/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Variables_tipos de datos/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Variables y tipos de datos/Ejercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Variables_tipos de datos/Ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Variables y tipos de datos/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Variables_tipos de datos/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Variables y tipos de datos/Ejercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Variables_tipos de datos/Ejercicio 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Operadores y expresiones/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_2_Operadores_expresiones/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Operadores y expresiones/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_2_Operadores_expresiones/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Operadores y expresiones/Ejercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_2_Operadores_expresiones/Ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Estructuras de control/Ejercicio 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_Estructuras_control/Ejercicio 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_4_Listas_tuplas/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Listas y tuplas/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_4_Listas_tuplas/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Diccionarios/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Diccionarios/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Diccionarios/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Diccionarios/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Diccionarios/Ejercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Diccionarios/Ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Diccionarios/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Diccionarios/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-Funciones/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Funciones/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-Funciones/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Funciones/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-Funciones/Ejercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Funciones/Ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-Excepciones/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_7_Excepciones/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-Excepciones/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_7_Excepciones/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_8_Clases_objetos/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_8_Clases_objetos/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_8_Clases_objetos/Ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Clases y objetos/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/_8_Clases_objetos/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-Herencia/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_9_Herencia/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-Herencia/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_9_Herencia/Ejercicio 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +60,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10-Modulos y paquetes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aitor\Industria Digital\2º Curso\Semestre II\Ingenieria Web\Ejercicios\Ejercicios Python\iw-ejercicios-python\Ejercicios\10-Modulos y paquetes" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Ejercicio 2">
     <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -156,22 +191,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584653273509" />
-    <state width="659" height="183" key="GridCell.Tab.0.bottom" timestamp="1584655068175">
+    <state x="804" y="122" key="FileChooserDialogImpl" timestamp="1584734288033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584655068175" />
-    <state width="659" height="183" key="GridCell.Tab.0.center" timestamp="1584655068175">
+    <state x="804" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584734288033" />
+    <state width="659" height="183" key="GridCell.Tab.0.bottom" timestamp="1584655125057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584655068175" />
-    <state width="659" height="183" key="GridCell.Tab.0.left" timestamp="1584655068174">
+    <state width="659" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584655125057" />
+    <state width="659" height="183" key="GridCell.Tab.0.center" timestamp="1584655125057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584655068174" />
-    <state width="659" height="183" key="GridCell.Tab.0.right" timestamp="1584655068175">
+    <state width="659" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584655125057" />
+    <state width="659" height="183" key="GridCell.Tab.0.left" timestamp="1584655125057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584655068175" />
+    <state width="659" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584655125057" />
+    <state width="659" height="183" key="GridCell.Tab.0.right" timestamp="1584655125057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584655125057" />
     <state x="680" y="166" key="run.anything.popup" timestamp="1584396920287">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
